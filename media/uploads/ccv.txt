@@ -1,0 +1,113 @@
+#CCN 5223030003310254|05|2024|353 CCN Matched BIN: - | mastercard - credit - CA
+
+#CCN 4149609002003210|12|2024|000 CCN Matched BIN: - | visa - credit - UA
+
+#CCN 4152313691149855|05|2025|470 CCN Matched BIN: - | visa - debit - MX
+
+#CCN 4318110006581801|10|2030|632 CCN Matched BIN: - | visa - credit - US
+
+#CCN 4465420511826570|01|2024|260 CCN Matched BIN: - | visa - credit - US
+
+#CCN 4465420511824674|01|2024|114 CCN Matched BIN: - | visa - credit - US
+
+#CCN 4314140202043565|05|2023|193 CCN Matched BIN: - | visa - credit - UA
+
+#CCN 4510140508038543|05|2026|534 CCN Matched BIN: - | visa - credit - CA
+
+#CCN 4314140202041809|05|2023|812 CCN Matched BIN: - | visa - credit - UA
+
+#CCN 4465420512453481|09|2024|325 CCN Matched BIN: - | visa - credit - US
+
+#CCN 4314140202044811|05|2023|652 CCN Matched BIN: - | visa - credit - UA
+
+#CCN 4430510088410527|11|2027|443 CCN Matched BIN: - | visa - debit - US
+
+#CCN 5217291892580765|09|2024|299 CCN Matched BIN: - | mastercard - debit - AU
+
+#CCN 4052215202683374|04|2032|481 CCN Matched BIN: - | visa - credit - AU
+
+#CCN 4052215202682483|05|2026|295 CCN Matched BIN: - | visa - credit - AU
+
+#CCN 4252906100960462|03|2027|000 CCN Matched BIN: - | visa - credit - US
+
+#CCN 4052215202685148|07|2026|708 CCN Matched BIN: - | visa - credit - AU
+
+#CCN 4152313523312002|06|2024|116 CCN Matched BIN: - | visa - debit - MX
+
+#CCN 4483850056177674|05|2023|826 CCN Matched BIN: - | visa - debit - ZA
+
+#CCN 4514078531173976|04|2027|346 CCN Matched BIN: - | visa - credit - CA
+
+#CCN 4252906100967111|11|2025|885 CCN Matched BIN: - | visa - credit - US
+
+#CCN 5100218000172615|06|2027|716 CCN Matched BIN: - | mastercard - credit - CH
+
+#CCN 5178058893147465|09|2028|635 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 6011499443048200|11|2026|653 CCN Matched BIN: - | discover - credit - US
+
+#CCN 4516076003905766|06|2027|828 CCN Matched BIN: - | visa - credit - CA
+
+#CCN 5526123000561963|01|2025|349 CCN Matched BIN: - | mastercard - credit - CA
+
+#CCN 4152313789722613|11|2026|097 CCN Matched BIN: - | visa - debit - MX
+
+#CCN 4960780011423412|07|2026|683 CCN Matched BIN: - | visa - debit - HN
+
+#CCN 5213324585733021|06|2024|235 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 5213324585734268|06|2024|063 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 4430440055101380|07|2025|673 CCN Matched BIN: - | visa - debit - US
+
+#CCN 4465420512457185|09|2024|962 CCN Matched BIN: - | visa - credit - US
+
+#CCN 5140220007823929|09|2028|671 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 5346360490085123|11|2023|432 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 4900803201358124|03|2025|123 CCN Matched BIN: - | visa - credit - US
+
+#CCN 4510156023483709|04|2026|805 CCN Matched BIN: - | visa - credit - CA
+
+#CCN 4842245718725455|09|2022|646 CCN Matched BIN: - | visa - prepaid - US
+
+#CCN 4910505001591014|08|2026|684 CCN Matched BIN: - | visa - debit - ZA
+
+#CCN 4510156021862276|04|2026|521 CCN Matched BIN: - | visa - credit - CA
+
+#CCN 4842245718760866|09|2022|142 CCN Matched BIN: - | visa - prepaid - US
+
+#CCN 4646913600542852|01|2025|851 CCN Matched BIN: - | visa - credit - CA
+
+#CCN 4465420514360726|10|2024|874 CCN Matched BIN: - | visa - credit - US
+
+#CCN 5567098004520035|04|2026|344 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 5567098004525729|03|2024|364 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 5275150060587045|05|2027|380 CCN Matched BIN: - | mastercard - debit - US
+
+#CCN 5168742730431222|07|2023|815 CCN Matched BIN: - | mastercard - debit - UA
+
+#CCN 4210030027435341|08|2026|624 CCN Matched BIN: - | visa - debit - MX
+
+#CCN 4052215202338276|01|2026|104 CCN Matched BIN: - | visa - credit - AU
+
+#CCN 4052215202332527|10|2023|163 CCN Matched BIN: - | visa - credit - AU
+
+#CCN 4052215202331016|11|2025|114 CCN Matched BIN: - | visa - credit - AU
+
+#CCN 4052215202331628|10|2023|524 CCN Matched BIN: - | visa - credit - AU
+
+#CCN 4960780011463525|07|2026|107 CCN Matched BIN: - | visa - debit - HN
+
+#CCN 4149390000657436|11|2027|000 CCN Matched BIN: - | visa - credit - UA
+
+#CCN 4149390000652510|02|2027|000 CCN Matched BIN: - | visa - credit - UA
+
+#CCN 4149390000657584|08|2024|000 CCN Matched BIN: - | visa - credit - UA
+
+#CCN 5218460000848500|10|2022|632 CCN Matched BIN: - | mastercard - credit - US
+
+#CCN 4430440002466662|05|2027|541 CCN Matched BIN: - | visa - debit - US
